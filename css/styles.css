@@ -11292,3 +11292,14 @@ textarea.form-control-lg {
   background-position: center;
   background-size: cover;
 }
+
+.teamContainer{
+display: flex;
+flex-direction: row;
+
+}
+
+.teamCard{
+  width: 50%;
+  text-align: center;
+}
